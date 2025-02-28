@@ -34,16 +34,6 @@
 
 ---
 
-<h2 align="center">💾 File Structure for Local Work 💾</h2>
-
-<div align="center">
-  If you want to download the datasets to work locally, here's the suggested way to arrange the files:
-  <br /><br />
-  <img src="Capture.PNG" alt="File Structure" style="width: 350px; height: auto;">
-</div>
-
----
-
 <h2 align="center">💾 Run File on Kaggle 💾</h2>
 
 <div align="center">
